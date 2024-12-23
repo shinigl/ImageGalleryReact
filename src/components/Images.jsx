@@ -11,7 +11,7 @@ const getImageData = () => {
         },
         {
             "url": "https://images.unsplash.com/photo-1472491235688-bdc81a63246e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "description": "A white cat lying on a windowsill"
+            "description": "A white cat looking outside the window"
         },
         {
             "url": "https://plus.unsplash.com/premium_photo-1677545183884-421157b2da02?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
